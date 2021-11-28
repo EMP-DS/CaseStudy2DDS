@@ -5,4 +5,8 @@ DDSAnalytics is an analytics company that specializes in talent management solut
 We were provided with a dataset (CaseStudy2-data.csv) with which to do an EDA to identify the top 3 factors that lead to attrition, i.e., the top 3 reasons that lead to an employee quitting. 
 
 ### Conclusion
-It was noted that those employees who work overtime are more likely to quit, and there is evidence between rate of attrition and monthly income. Job roles can also play a part in likelihood of attrition, with sales representatives being most likely to leave. A correlation was also found between single employees, while married employees were more likely to stay.
+Factors that contributed to attrition were whether or not the employee worked overtime, with those who had "Yes" in their entries generally being more likely to quit.
+
+There was a correlation between monthly income and attrition; those employees making less than $30k per year were more likely to leave, though this makes sense as an employee making less than $30k per year is likely an intern or non-specialized employee.
+
+Job roles and marital status also affected attrition; sales representatives were more likely to leave, as well as single employees.
